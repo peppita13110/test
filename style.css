@@ -1,4 +1,17 @@
 p
 {
-	text-align: center;
+	text-align: justify;
+	color: white;
+}
+
+h1
+{
+	text-align: left;
+	color: white;
+
+}
+
+*
+{
+	background-color: black;
 }
